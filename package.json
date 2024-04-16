@@ -1,0 +1,15 @@
+{
+  "name": "basic-nodejs",
+  "version": "1.0.0",
+  "description": "NodeJS Project with express framework and running in docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  },
+  "devDependencies": {},
+  "author": "Ridhi",
+  "license": "MIT"
+}
